@@ -89,6 +89,7 @@ We'd greatly appreciate if you could:
 | [BucketMate](https://bucketmate.app/pricing?ref=greatfrontend) | A Finder-style S3-compatible manager for macOS. | **BF2026** - 40% off lifetime licenses | - | ✅ |
 | [RunJS](https://runjs.app/) | The JavaScript playground for your desktop | **BLACKFRIDAY2026** - 30% off | Ends about Dec 2 | ✅ |
 | [Kinsta](https://kinsta.com/black-friday/) | Managed WordPress hosting, also application, database and static site hosting | 50% off monthly plans for 3 months, 3 months free on annual plans | Ends Dec 1 | ✅ |
+| [Grai](https://grai.page) | Offline cadence gate that flags AI-writing tells before clients do | **BF2026** - 30% off your first billing cycle on Solo Offline ($79/yr) & Agency Protocol ($99/mo, $790/yr) | Ends Nov 30 | ✅ |
 
 ## Books for developers and software engineers
 
